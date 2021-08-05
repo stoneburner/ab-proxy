@@ -1,4 +1,4 @@
-module ab-proxy
+module github.com/stoneburner/ab-proxy
 
 go 1.12
 
